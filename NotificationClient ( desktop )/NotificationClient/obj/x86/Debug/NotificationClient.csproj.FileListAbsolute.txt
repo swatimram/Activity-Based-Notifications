@@ -1,0 +1,21 @@
+c:\users\win7\documents\visual studio 2010\Projects\NotificationClient\NotificationClient\obj\x86\Debug\NotificationClient.Properties.Resources.resources
+c:\users\win7\documents\visual studio 2010\Projects\NotificationClient\NotificationClient\obj\x86\Debug\NotificationClient.csproj.GenerateResource.Cache
+c:\users\win7\documents\visual studio 2010\Projects\NotificationClient\NotificationClient\bin\Debug\NotificationClient.exe
+c:\users\win7\documents\visual studio 2010\Projects\NotificationClient\NotificationClient\bin\Debug\NotificationClient.pdb
+c:\users\win7\documents\visual studio 2010\Projects\NotificationClient\NotificationClient\obj\x86\Debug\NotificationClient.exe
+c:\users\win7\documents\visual studio 2010\Projects\NotificationClient\NotificationClient\obj\x86\Debug\NotificationClient.pdb
+c:\users\win7\documents\visual studio 2010\Projects\NotificationClient\NotificationClient\obj\x86\Debug\NotificationClient.UserStateForm.resources
+c:\users\win7\documents\visual studio 2010\Projects\NotificationClient\NotificationClient\obj\x86\Debug\NotificationClient.Login.resources
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\NotificationClient\NotificationClient\obj\x86\Debug\NotificationClient.ViewNotifications.resources
+O:\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.exe
+O:\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.pdb
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.exe
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.pdb
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\bin\Debug\NotificationClient.exe
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\bin\Debug\NotificationClient.pdb
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.csprojResolveAssemblyReference.cache
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.UserStateForm.resources
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.Login.resources
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.Properties.Resources.resources
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.ViewNotifications.resources
+G:\publisher and subscribers\push\NotificationClient ( desktop )\NotificationClient\obj\x86\Debug\NotificationClient.csproj.GenerateResource.Cache

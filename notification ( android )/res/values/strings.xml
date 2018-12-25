@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notification App</string>
+    <string name="hello_world">You are getting this notification as you subscribed for this publisher</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_view_service">ViewService</string>
+    <string name="continuetext">Continue</string>
+    <string name="welcometext">Push notification alerting system for subscribers</string>
+
+</resources>
